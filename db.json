@@ -1,5 +1,5 @@
 {
-  "sport": [
+  "windsurf": [
     {
       "name": "windsurf"
     },
@@ -8,20 +8,20 @@
     },
     {
       "temperature": {
-        "upperLimit": "",
-        "lowerLimit": ""
+        "upperLimit": "35",
+        "lowerLimit": "20"
       }
     },
     {
       "humidity": {
-        "upperLimit": "",
-        "lowerLimit": ""
+        "upperLimit": "70",
+        "lowerLimit": "21"
       }
     },
     {
       "windSpeed": {
-        "upperLimit": "",
-        "lowerLimit": ""
+        "upperLimit": "25,7",
+        "lowerLimit": "10,8"
       }
     }
   ]
